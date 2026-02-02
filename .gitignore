@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Power BI temp files
+*.pbix.tmp
