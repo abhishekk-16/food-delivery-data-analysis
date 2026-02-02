@@ -98,12 +98,12 @@ The Power BI dashboard consists of three pages:
 1. Clone the repository:
    ```bash
    git clone https://github.com/abhishek-16/food-delivery-data-analysis.git
-```
+   ```
 2. Create and activate a virtual environment:
    ```bash
    python -m venv venv
    venv\Scripts\activate
-```
+   ```
 
 3. Install dependencies:
    ```bash
@@ -116,7 +116,7 @@ The Power BI dashboard consists of three pages:
    python analysis/02_revenue_analysis.py
    python analysis/03_cancellation_analysis.py
    python analysis/04_delivery_performance.py
-```
+   ```
 
 ## Author
 
