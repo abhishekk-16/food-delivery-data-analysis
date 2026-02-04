@@ -85,12 +85,47 @@ The Power BI dashboard consists of three pages:
    - Late delivery rate
    - Total deliveries with conditional formatting
 
+## Excel Dashboard
+
+An Excel-based operational dashboard was created using Pivot Tables and charts to:
+
+- Track monthly revenue and cancellation trends
+- Analyze delivery performance
+- Identify underperforming delivery agents
+
+This dashboard provides a quick, lightweight analytical view using Excel alongside Python and Power BI.
+
 ## Business Recommendations
 
 - Improve ETA estimation to reduce late delivery perception.
 - Identify and retrain underperforming delivery agents.
 - Use targeted operational improvements instead of system-wide changes.
 - Reducing late deliveries may help lower cancellation rates and improve customer satisfaction.
+
+## Power BI Dashboard (Screenshots)
+
+### Executive Overview
+![Executive Overview](powerbi_dashboard/screenshots/executive_overview.png)
+
+### Delivery Performance
+![Delivery Performance](powerbi_dashboard/screenshots/delivery_performance.png)
+
+### Agent Performance Drill-Down
+![Agent Drill-Down](powerbi_dashboard/screenshots/agent_performance.png)
+
+## Excel Dashboard (Screenshots)
+
+### Executive Overview
+![Dashboard Overview](excel_dashboard/screenshots/dashboard_overview.png)
+
+### Revenue Analysis
+![Revenue Analysis](excel_dashboard/screenshots/revenue_analysis.png)
+
+### Cancellation Analysis
+![Cancellation Analysis](excel_dashboard/screenshots/cancellation_analysis.png)
+
+### Delivery Performance
+![Delivery Performance](excel_dashboard/screenshots/delivery_performance.png)
 
 
 ## How to Run the Analysis
