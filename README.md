@@ -18,7 +18,7 @@ The analysis aims to answer the following business questions:
 - **Query Language**: SQL  
 - **Programming Language**: Python  
 - **Libraries**: Pandas, NumPy, Matplotlib  
-- **Visualization**: Power BI  
+- **Visualization**: Power BI, Excel 
 - **Version Control**: Git & GitHub
 
 ## Project Structure
