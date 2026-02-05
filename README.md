@@ -23,6 +23,7 @@ The analysis aims to answer the following business questions:
 
 ## Project Structure
 
+```text
 analysis/
 │── 01_data_inspection.py
 │── 02_revenue_analysis.py
@@ -33,11 +34,16 @@ data/
 │── orders.csv
 │── deliveries.csv
 
-dashboard/
+powerbi_dashboard/
 │── Food Delivery Analysis.pbix
+│── screenshots/
+
+excel_dashboard/
+│── screenshots/
 
 requirements.txt
 README.md
+```
 
 ## Data Analysis Workflow
 
